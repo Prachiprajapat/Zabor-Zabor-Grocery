@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "535190359452",
+    "firebase_url": "https://migenteonline-ee81f.firebaseio.com",
+    "project_id": "migenteonline-ee81f",
+    "storage_bucket": "migenteonline-ee81f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535190359452:android:fc43df2b2221fe39c5cc59",
+        "android_client_info": {
+          "package_name": "com.migente.online.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535190359452-am5mqjaab2sqhf1067vco8j8791bjdod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpjbdIP5P9XrHuwAdANKHoXwYi0nnGDGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535190359452-am5mqjaab2sqhf1067vco8j8791bjdod.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "535190359452-1vtjttch5vpg7u3p35io54kv4nbsjrmj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.migente.store"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535190359452:android:25b8f79a28ef7fe3c5cc59",
+        "android_client_info": {
+          "package_name": "com.migente.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535190359452-am5mqjaab2sqhf1067vco8j8791bjdod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpjbdIP5P9XrHuwAdANKHoXwYi0nnGDGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535190359452-am5mqjaab2sqhf1067vco8j8791bjdod.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "535190359452-1vtjttch5vpg7u3p35io54kv4nbsjrmj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.migente.store"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

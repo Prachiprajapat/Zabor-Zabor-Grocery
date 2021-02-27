@@ -1,0 +1,4 @@
+enum UserListEntryPoint{
+  profile,
+  searchUserList
+}
